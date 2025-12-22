@@ -1,0 +1,8 @@
+.app { min-height: 100vh; }
+
+.app-light { background: #f8f9fa; color: #212529; }
+.app-dark  { background: #121212; color: #e9ecef; }
+
+.app-dark .card { background: #1e1e1e; border-color: #2b2b2b; color: #e9ecef; }
+.app-dark .table { color: #e9ecef; }
+
